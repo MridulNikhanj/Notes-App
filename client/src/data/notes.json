@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "text": "This is how a Note on Note.me looks like! Very simple, clean and asthetic! 😍 This is how a Note on Note.me looks like! Very simple, clean and asthetic! 😍 This is how a Note on Note.me looks like! Very simple, clean and asthetic! 😍",
+        "createdAt": "July, 25 2024",
+        "color": "rgba(251, 235, 149, 0.4)"
+    },
+    {
+        "id": 2,
+        "text": "This is how a Note on Note.me looks like! Very simple, clean and asthetic! 😍",
+        "createdAt": "July, 07 2024",
+        "color": "rgba(182, 165, 203, 0.4)"
+    },
+    {
+        "id": 3,
+        "text": "This is how a Note on Note.me looks like! Very simple, clean and asthetic! 😍",
+        "createdAt": "July, 07 2024",
+        "color": "rgba(253, 186, 163, 0.4)"
+    }
+]
